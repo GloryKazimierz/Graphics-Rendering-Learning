@@ -1,0 +1,15 @@
+# Lessons
+
+- [01 — GPU 到底怎么画出一个 Minecraft 方块](01_RENDERING_PIPELINE.md)
+- [02 — GLSL 基础：vec、UV、RGB、texture、mix、dot](02_GLSL_VECTORS_UV_COLOR.md)
+- [03 — Milestone 1：颜色后处理](03_M1_POST_PROCESSING.md)
+- [04 — 坐标空间与矩阵：AuroraShader 最重要的基础](04_COORDINATE_SPACES_MATRICES.md)
+- [05 — Milestone 2：G-buffer 与 Deferred Rendering](05_GBUFFER_DEFERRED.md)
+- [06 — Normal、Dot Product 与 Lambert Lighting](06_NORMALS_LAMBERT.md)
+- [07 — Minecraft Lightmap 与 Lighting Composition](07_LIGHTMAP_COMPOSITION.md)
+- [08 — Depth 与 Position Reconstruction](08_DEPTH_POSITION_RECONSTRUCTION.md)
+- [09 — Milestone 3A：Basic Shadow Mapping](09_M3A_SHADOW_MAPPING.md)
+- [10 — Milestone 3B：3×3 PCF Soft Shadows](10_M3B_PCF.md)
+- [11 — Debug View、验证与 Graphics Programmer 的工作方式](11_DEBUGGING_VALIDATION.md)
+- [12 — Milestone 4A 预习：Custom Sky 所需要的知识](12_M4A_SKY_FOUNDATIONS.md)
+- [13 — AuroraShader 复习计划](13_REVIEW_PLAN.md)
